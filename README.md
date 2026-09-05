@@ -56,3 +56,23 @@ My goal is to grow as a **Data Analyst / Business Intelligence Analyst** while d
 ---
 
 > **Learning every day. Building something better every day. 🚀**
+> ## 🎓 Education
+
+### Bachelor of Science in Data Science
+**Institute of Management Sciences, Peshawar**
+
+Currently pursuing **BS Data Science**, with a focus on:
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Artificial Intelligence
+- Statistics
+- Database Management
+- Data Visualization
+- ## 📜 Certifications & Training
+
+- **Business Intelligence Course**
+- **CPPR Data Analysis Course**
+- **DIT (Diploma in Information Technology)**
+- **Advanced AI Training**
